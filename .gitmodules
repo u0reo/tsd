@@ -1,3 +1,6 @@
 [submodule "mirakurun"]
 	path = mirakurun
 	url = https://github.com/u0reo/tsd-mirakurun
+[submodule "px4_drv"]
+	path = px4_drv
+	url = https://github.com/u0reo/tsd-px4_drv
